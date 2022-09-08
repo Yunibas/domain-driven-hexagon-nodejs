@@ -2,7 +2,7 @@
   "name": "domain-driven-hexagon-nodejs",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Troy Moreland <troy@34fame.com>",
+  "author": "Troy Moreland <troy@yunibas.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.0.0",
